@@ -1,7 +1,7 @@
-<a href="https://github.com/hiwatee/github-readme-stats">
+<a href="https://github.com/hiwatee">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hiwatee&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/hiwatee/github-readme-stats">
+<a href="https://github.com/hiwatee">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiwatee" />
 </a>
 
